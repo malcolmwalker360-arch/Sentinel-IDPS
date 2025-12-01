@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel IDPS",
+  "description": "AI-powered Intrusion Detection & Prevention System dashboard visualizing real-time network traffic and analyzing threats with Gemini.",
+  "requestFramePermissions": []
+}
